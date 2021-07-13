@@ -16,8 +16,8 @@ module.exports = client => {
   );
   client.user.setStatus("online");
   var oyun = [
-    "Youtube: https://www.youtube.com/c/sadecealiniz",
-    "Discord: https://discord.gg/z7HR6UuRqY",
+    "Youtube: https://www.youtube.com/c/izexlesh",
+    "izexxlesh",
   
   ];
 
